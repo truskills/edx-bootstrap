@@ -10,17 +10,28 @@
 //-----------------
 
 //Main Color Variables
-$main-color: #f7691f;
-$dark-color: #ea281f; //Link Color
-$light-color: #f4e00c; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
+//$main-color: #f7691f;
+$main-color: #2F9E44;
+//$dark-color: #ea281f; //Link Color
+$dark-color: #398c8c; //Link Color
+//$light-color: #f4e00c; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
+$light-color: #1a51bf; //Selected Header BG Color, ie. calendar        ***Custom, not from palette***
 $bg-color: #f7fe81; //Selected Content BG Color, ie. calendar          ***Custom, not from palette***
 
+
 //Main BG Color Variables
-$main-bg: #822537;
+//$main-bg: #822537;
+$main-bg: #65686D;
 $main-bg-60: lighten($main-bg, 18.5%); //Main Border/HR Color
 $main-bg-25: lighten($main-bg, 25%); 
+//Veritasu Colors
+$button-color-green: #2F9E44;
+//$logo-color: #841618;
+//$logo-color: #FFFFFF;
+$logo-color: #FFFFFF;
 
 //Secondary Color Variables
+//$secondary: #841618;
 $secondary: #b5a4b7;
 $secondary-50: lighten($secondary, 9%);
 $secondary-25: lighten($secondary, 20%); //Important Heading BG Color 
@@ -62,10 +73,13 @@ $container-bg: $gray-1;
 $login-register-bg: $gray-1;
 $content-wrapper-bg: $gray-1;
 $header-image: none;
-$header-bg: transparentize(lighten($secondary, 18.5%), .25);
+//$header-bg: transparentize(lighten($secondary, 18.5%), .25);
+$header-bg: $logo-color;
 $courseware-header-image: none;
-$courseware-header-bg: transparentize(lighten($secondary, 18.5%), .25);
-$footer-bg: $secondary-25;
+//$courseware-header-bg: transparentize(lighten($secondary, 18.5%), .25);
+$courseware-header-bg: $logo-color;
+//$footer-bg: $secondary-25;
+$footer-bg: $logo-color;
 $courseware-footer-border: 1px solid $main-bg-60;
 $courseware-footer-shadow: box-shadow(2px 1px 0 rgba(0, 0, 0, .1));
 $courseware-footer-margin: 50px;
@@ -99,6 +113,7 @@ $shadow-color: $gray;
 
 // actions
 $button-bg-image: none;
+$button-bg-color: $gray-3;
 $button-bg-color: $gray-3;
 $button-bg-hover-color: $gray-1;
 
@@ -185,7 +200,8 @@ $footer_margin: ($baseline/4) 0;
 //-----------------
 //  CSS BG Images
 //-----------------
-$homepage-bg-image: url('../themes/edx-theme/images/sunrise.jpg');
+//$homepage-bg-image: url('../themes/edx-theme/images/sunrise.jpg');
+$homepage-bg-image: url('../themes/edx-theme/images/background.jpg');
 
 $login-banner-image: none;
 $register-banner-image: none;
