@@ -26,6 +26,7 @@ $main-bg-60: lighten($main-bg, 18.5%); //Main Border/HR Color
 $main-bg-25: lighten($main-bg, 25%); 
 //Veritasu Colors
 $button-color-green: #2F9E44;
+$veritasu-blue-font: #083F6F;
 //$logo-color: #841618;
 //$logo-color: #FFFFFF;
 $logo-color: #FFFFFF;
@@ -92,7 +93,7 @@ $faded-hr-image-5: linear-gradient($main-bg-60 0%, $main-bg-60);
 $faded-hr-image-6: linear-gradient($main-bg-60 0%, $main-bg-60);
 
 $base-font-color: $black;
-$lighter-base-font-color: $black-80;
+$lighter-base-font-color: $veritasu-blue-font;
 $very-light-text: $gray-1;
 
 $link-color: $dark-color;
