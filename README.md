@@ -1,6 +1,6 @@
 Overview
 ========
-This directory stores a default theme for an Open edX instance.
+This directory stores the Veritasu fork of the default theme for an Open edX instance. We are making this the Veritasu theme.
 
 We've organized the tree to mimic the directory structure of the edX
 codebase so that it's easy to tell where the files will end up upon
