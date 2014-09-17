@@ -1,0 +1,89 @@
+/*********************************************************************************************************************************************************************/
+                                   
+                                                                 Thanks bootstrap
+
+**********************************************************************************************************************************************************************/        
+
+
+
+
+
+                                                                   Bizwrap theme 
+
+/********************************************************                                                    *********************************************************/
+
+                                    Theme: bizwrap
+                                    Author: design_mylife.
+                                    Verson:v1.0
+                                    framework:bootstrap3
+                                    mail me:mylifedesign143@gmail.com 
+                                    url: http://designmylife.co.in/bizwrap/index.html
+
+/*********************************************************************************************************************************************************************/
+
+
+                             thaks very much to purchase  bizwrap theme .its very clean and useful theme Design only for you.if you have any question for related this                              theme please contact me on my profile page .am ready to help 24/7. thanks again.
+
+
+
+/**********************************************************    Some of bizwrap theme features      ******************************************************************/
+
+
+                                                 1.fully responsive layout.
+
+                                                 2.built with bootstrap3
+                                                
+                                                 3.valid and clean code design
+
+                                                 4.google fonts(convert easily into you favorite font)
+
+                                                 5. ion icon fonts  
+
+                                                 6.19+ html pages ready to use.
+
+                                                 7.easy filtering with mix it up filter
+
+                                                 8. easy customization                                             
+
+                                                 
+
+
+/**************************************************                        Srcipts and credits              **********************************************************/
+
+                                  
+                                           images:http://picjumbo.com/
+
+                                           bootstrap3:http://getbootstrap.com/
+
+                                           jquery: http://jquery.com/
+
+                                           Mixit up filter: https://mixitup.kunkalabs.com/
+
+                                           flex slider: http://www.woothemes.com/flexslider/
+
+                                           icons: http://ionicons.com/
+
+                                           google fonts: http://www.google.com/fonts
+
+                                           jquery easing: http://gsgd.co.uk/sandbox/jquery/easing/
+
+                                           showcase images:http://unsplash.com/
+
+                                           responsive mockups:  http://medialoot.com/item/free-responsive-screen-mockup-pack/
+                                            
+                                           animated css3: http://daneden.github.io/animate.css/
+
+
+                                           NOTE: all images are use  for demo perpose only. or for typography and grid system  go to the bootatrap official website.
+
+                                           thnaks for images and script.
+
+
+
+
+
+
+
+                                                                            
+ ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            copyright 2014.all right resrved.theme design by design_mylife.
