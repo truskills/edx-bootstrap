@@ -49,8 +49,9 @@ site_status_msg = get_site_status_msg(course_id)
     </header>
 % endif
 
-  <header class="${"global slim" if course else "global-new"}" aria-label="${_('Global Navigation')}">
-    <nav>
+  <!-- <header class="${"global slim" if course else "global-new"}" aria-label="${_('Global Navigation')}"> -->
+  <header id="global-navigation" class="global ${"slim" if course else ""}" >
+    <nav aria-label="${_('Global')}">
     <h1 class="logo">
       <a href="${marketing_link('ROOT')}">
         <%block name="navigation_logo">
@@ -58,6 +59,7 @@ site_status_msg = get_site_status_msg(course_id)
         </%block>
       </a>
     </h1>
+
 
     % if course:
     <h2><span class="provider">${course.display_org_with_default | h}:</span> ${course.display_number_with_default | h} ${course.display_name_with_default}</h2>
